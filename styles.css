@@ -81,6 +81,7 @@ main {
     background-color: rgba(74,74,74,1.00);
     border-radius: 10px;
     margin-top: 10px;
+    padding-bottom: 20px;
     border: 1px solid rgba(0,0,0,1.00);
     -webkit-box-shadow: -2px 2px 5px rgba(0,0,0,0.87);
     box-shadow: -2px 2px 5px rgba(0,0,0,0.87);
